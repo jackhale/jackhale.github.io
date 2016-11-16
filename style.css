@@ -1,9 +1,6 @@
-body {}
-title{
-	color: green;
-}
-
-h1{
-	font:comic-sans;
-	color: orange;
+@media screen and (max-width: 500px) {
+/* applies only if the screen is narrower than 500px */
+  body {
+    background-color:blue;
+  }
 }
