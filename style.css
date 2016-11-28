@@ -1,6 +1,6 @@
-@media screen and (max-width: 500px) {
-/* applies only if the screen is narrower than 500px */
-  body {
-    background-color:blue;
-  }
+ul{
+	margin: 50px;
+	background-color: red;
+	text-align: center;
+	text-decoration: italic;
 }
